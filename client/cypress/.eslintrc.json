@@ -1,0 +1,6 @@
+// Gets rid of "Cypress is not defined" errors
+{
+    "extends": [
+      "plugin:cypress/recommended"
+    ]
+  }
